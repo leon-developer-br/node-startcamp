@@ -8,6 +8,8 @@ Exercícios de Javascript (Node) para aprender a programar
 * **Tira dúvidas**: Dentro do período de desenvolvimento, só é possível pedir ajuda 5 vezes.
 * **Sobre a entrega**: Deve ser aberto um Pull Request para a branch master com a resolução proposta para cada problema.
 
+##### Atividades
+
 - Imprimir na console a mensagem => Bem vindo ao Node JS!!!
 - Criar uma função que irá gerar um array de 10 núḿeros e  irá  percorrer toda a lista mostrando a  mensagem   =>  Número  {x}  onde x é o número que está sendo iterado no array.
 - Criar uma função que percorre uma lista de número e retorna uma nova lista com todos os números multiplicados por 5.
