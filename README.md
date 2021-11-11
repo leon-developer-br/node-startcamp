@@ -6,6 +6,7 @@ Exercícios de Javascript (Node) para aprender a programar
 
 **Prazo para desenvolvimento**: 1 semana a partir do momento que iniciar a aula.
 **Tira dúvidas**: Dentro do período de desenvolvimento, só é possível pedir ajuda 5 vezes.
+**Sobre a entrega**: Deve ser aberto um Pull Request para a branch master com a resolução proposta para cada problema.
 
 - Imprimir na console a mensagem => Bem vindo ao Node JS!!!
 - Criar uma função que irá gerar um array de 10 núḿeros e  irá  percorrer toda a lista mostrando a  mensagem   =>  Número  {x}  onde x é o número que está sendo iterado no array.
